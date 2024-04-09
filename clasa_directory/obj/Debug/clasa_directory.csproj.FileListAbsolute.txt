@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\bin\Debug\clasa_directory.exe.config
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\bin\Debug\clasa_directory.exe
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\bin\Debug\clasa_directory.pdb
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\obj\Debug\clasa_directory.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\obj\Debug\clasa_directory.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\obj\Debug\clasa_directory.exe
+C:\Users\Ucenik\source\repos\clasa_directory\clasa_directory\obj\Debug\clasa_directory.pdb
